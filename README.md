@@ -1,8 +1,9 @@
-# The Challenge
+# Titanic - Machine Learning Problem from Disaster
 
 ```python
 print("Hi, my name is Nazim! ")
 ```
+## The Challenge:
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
